@@ -161,6 +161,3 @@ However, if you find this implementation or pre-trained models helpful, please c
   year={2020}
 }
 ```
-# nerf-pytorch
-# nerf-pytorch
-# nerf-pytorch
